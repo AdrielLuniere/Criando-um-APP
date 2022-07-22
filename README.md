@@ -4,7 +4,7 @@ Projeto desenvolvido durante o bootcamp da Localiza Labs na plataforma de estudo
 Confira as funcionalidades da aplicação pelas imagens abaixo 😉⬇️⬇️.
 
 ## Rodando Aplicação
-![Executando](https://github.com/viniciusmartins1/cadastro-de-series/blob/main/Executando.PNG)
+![Executando](https://github.com/AdrielLuniere/Criando-um-APP/blob/main/Executando.PNG)
 
 ### Inserindo Nova Série
 ![Inserindo Nova Série](https://github.com/viniciusmartins1/cadastro-de-series/blob/main/Executando%202.PNG)
